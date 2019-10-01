@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab8MySQLQueryInsert</string>
+    <string name="student_list">Student List</string>
+</resources>
